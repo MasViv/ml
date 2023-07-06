@@ -1,0 +1,43 @@
+body
+{
+  color: white;
+  background:black;
+  text-decoration-color:white;
+  font-family: cursive;
+}
+span
+{
+  font-size: 30px;
+  font-family: cursive;
+}
+#camera , #result
+{
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: white;
+  font-family: cursive;
+}
+.emotion_name
+{
+  font-size: 40px;
+  font-family: cursive;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size:18px;
+  border-spacing:10px;
+  letter-spacing:10px;
+  font-family: cursive;
+}
+#result_emotion_name
+{
+color: aliceblue;
+font-family: cursive;
+}
